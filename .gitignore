@@ -1,5 +1,2 @@
-*.o
-gtest-1.6.0
-libgtest.a
-main
-merry_test
+build
+gtest
